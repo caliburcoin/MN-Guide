@@ -39,7 +39,7 @@ and copy txhash and outpidx, save it in a text editor to use it later
 
 	:arrow_forward: `apt-get update`
 
-	:arrow_forward: `wget -q https://github.com/caliburcoin/Masternode-Guide/blob/master/caliburmn.sh`
+	:arrow_forward: `wget -q https://github.com/caliburcoin/MN-Guide/raw/master/caliburmn.sh`
   
   :arrow_forward: `apt-get install -y dos2unix`
   
