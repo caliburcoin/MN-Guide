@@ -37,9 +37,8 @@ and copy txhash and outpidx, save it in a text editor to use it later
 
 * Once logged in your vps, *copy/past* each line one by one with *Enter*
 
-	:arrow_forward: `apt-get update`
 
-	:arrow_forward: `wget -q https://github.com/caliburcoin/MN-Guide/raw/master/calibur.mn -O && chmod +x cmn.sh && bash cmn.sh`
+	:arrow_forward: `wget https://github.com/caliburcoin/MN-Guide/raw/master/caliburmn.sh && chmod +x caliburmn.sh && bash caliburmn.sh`
 
 (step 10)
 * Let this run, after a min it will show you 3 options press 1 and click enter 
